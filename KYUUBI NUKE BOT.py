@@ -1495,4 +1495,5 @@ async def adminpanel(ctx):
     await ctx.send(embed=embed, view=view)
 
 
-client.run("MTM3NDM1NzE0NjU1MTk3NTk1Nw.GE8t6V.0VhyOa-vZk-0O4ETTZb6QDQTzcjpBs8i_sR6e0")
+client.run("MTM3NDM1NzE0NjU1MTk3NTk1Nw.GpI7Fg.m9j3zMW1J9Aso3gb7jyyolqkyhr-04P-A9SFJ4")
+
